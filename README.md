@@ -4,9 +4,10 @@ git bash gyakorlas
 sziasztok (andris)
 balint De szép cica vagy sanyi, a kurva anyád
 gergo
-Robi csinálj pizzát!!! 
+Robi csinálj pizzát!!!
 
 A kutya megöl ma
 
 sör-finom
 asd
+feature changes
