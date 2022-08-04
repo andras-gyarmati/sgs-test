@@ -7,3 +7,5 @@ gergo
 Robi csinálj pizzát!!! 
 
 A kutya megöl ma
+
+sör
