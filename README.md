@@ -2,7 +2,7 @@
 git bash gyakorlas
 
 sziasztok (andris)
-balint
+balint De szép cica vagy sanyi, a kurva anyád
 gergo
 robi
 
